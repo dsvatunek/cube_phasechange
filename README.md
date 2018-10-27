@@ -23,6 +23,7 @@ Available options:
 
 
 
-Please cite:
+Please cite: [![DOI](https://zenodo.org/badge/154938710.svg)](https://zenodo.org/badge/latestdoi/154938710)
+
 
 https://github.com/dsvatunek/cube_phasechange
