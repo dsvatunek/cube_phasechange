@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
 Cube PhaseChange
@@ -18,7 +19,9 @@ Change all to negative (-n)
 Renumber the orbital numbers by adding 1000 (-c)
 
 Please cite:
+https://github.com/dsvatunek/cube_phasechange
 """
+__version__= '1.0.0'
 
 def isInt(s):
     try: 
@@ -69,6 +72,7 @@ Change all to negative (-n)
 Renumber the orbital numbers by adding 1000 (-c)
 
 Please cite:
+https://github.com/dsvatunek/cube_phasechange
 """
 
     
