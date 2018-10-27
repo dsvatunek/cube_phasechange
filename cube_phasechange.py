@@ -18,7 +18,7 @@ Change all to positive (-p)
 Change all to negative (-n)
 Renumber the orbital numbers by adding 1000 (-c)
 
-Please cite:
+Please cite: http://doi.org/10.5281/zenodo.1472621
 https://github.com/dsvatunek/cube_phasechange
 """
 __version__= '1.0.0'
@@ -71,7 +71,7 @@ Change all to positive (-p)
 Change all to negative (-n)
 Renumber the orbital numbers by adding 1000 (-c)
 
-Please cite:
+Please cite: http://doi.org/10.5281/zenodo.1472621
 https://github.com/dsvatunek/cube_phasechange
 """
 
