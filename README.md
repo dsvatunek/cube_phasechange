@@ -19,7 +19,7 @@ Available options:
 * Change all to positive (-p)
 
 * Change all to negative (-n)
-* Renumber the orbital numbers by adding 1000 (-c)
+* Changing the orbital numbers by adding 1000 (-c)
 
 
 
